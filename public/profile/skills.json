@@ -1,0 +1,81 @@
+{
+    "intro": "I love building things that matter — from performant frontends to production AI systems. Here are the technologies, tools, and platforms I work with daily:",
+    "skills": [
+        {
+            "title": "Languages",
+            "items": [
+                { "icon": "images/skills/ts.png", "title": "TypeScript" },
+                { "icon": "images/skills/js.png", "title": "JavaScript" },
+                { "icon": "images/skills/python.png", "title": "Python" }
+            ]
+        },
+        {
+            "title": "Frontend",
+            "items": [
+                { "icon": "images/skills/react.png", "title": "React.js" },
+                { "icon": "images/skills/nextjs.svg", "title": "Next.js" },
+                { "icon": "images/skills/tailwindcss.svg", "title": "Tailwind CSS" },
+                { "icon": "images/skills/vite.svg", "title": "Vite" }
+            ]
+        },
+        {
+            "title": "Backend & APIs",
+            "items": [
+                { "icon": "images/skills/nodejs.png", "title": "Node.js" },
+                { "icon": "images/skills/nestjs.svg", "title": "NestJS" },
+                { "icon": "images/skills/graphql.svg", "title": "GraphQL" },
+                { "icon": "images/skills/express.svg", "title": "Express" },
+                { "icon": "images/skills/fastapi.svg", "title": "FastAPI" },
+                { "icon": "images/skills/sqlalchemy.svg", "title": "SQLAlchemy" },
+                { "icon": "images/skills/prisma.svg", "title": "Prisma" }
+            ]
+        },
+        {
+            "title": "AI & Agents",
+            "items": [
+                { "icon": "images/skills/anthropic.svg", "title": "Claude API" },
+                { "icon": "images/skills/openai.svg", "title": "OpenAI API" },
+                { "icon": "images/skills/langchain.svg", "title": "LangChain" },
+                { "icon": "images/skills/vercel.svg", "title": "Vercel AI SDK" },
+                { "icon": "images/skills/mcp.svg", "title": "MCP Server" },
+                { "icon": "images/skills/postgresql.svg", "title": "pgvector / RAG" }
+            ]
+        },
+        {
+            "title": "Databases",
+            "items": [
+                { "icon": "images/skills/postgresql.svg", "title": "PostgreSQL" },
+                { "icon": "images/skills/mysql.png", "title": "MySQL" },
+                { "icon": "images/skills/mongodb.svg", "title": "MongoDB" },
+                { "icon": "images/skills/redis.svg", "title": "Redis" }
+            ]
+        },
+        {
+            "title": "Testing",
+            "items": [
+                { "icon": "images/skills/vitest.svg", "title": "Vitest" },
+                { "icon": "images/skills/jest.svg", "title": "Jest" },
+                { "icon": "images/skills/cypress.svg", "title": "Cypress" },
+                { "icon": "images/skills/playwright.svg", "title": "Playwright" }
+            ]
+        },
+        {
+            "title": "Cloud & DevOps",
+            "items": [
+                { "icon": "images/skills/aws.svg", "title": "AWS" },
+                { "icon": "images/skills/docker.png", "title": "Docker" },
+                { "icon": "images/skills/kubernetes.svg", "title": "Kubernetes" },
+                { "icon": "images/skills/github-actions.svg", "title": "GitHub Actions" },
+                { "icon": "images/skills/git.png", "title": "Git" }
+            ]
+        },
+        {
+            "title": "AI Dev Tools",
+            "items": [
+                { "icon": "images/skills/cursor.svg", "title": "Cursor" },
+                { "icon": "images/skills/anthropic.svg", "title": "Claude Code" },
+                { "icon": "images/skills/githubcopilot.svg", "title": "GitHub Copilot" }
+            ]
+        }
+    ]
+}

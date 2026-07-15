@@ -1,0 +1,70 @@
+{
+    "projects": [
+        {
+            "image": "images/projects/supervisionbrain-poster.png",
+            "title": "Supervision Brain",
+            "bodyText": "- An **AI-augmented risk analysis platform** for financial advisor supervision teams, built with a multi-agent architecture layered over a deterministic rule engine.\n - Six specialised agents (NRA, EDD, Report, Pattern Discovery, Rule Author, Chat) orchestrated in **FastAPI**; **Next.js** dashboard for advisors, analysis, reports, and chat.\n - Risk grading stays deterministic and auditable \u2014 AI narrates findings, drafts rules from natural language, and answers ad-hoc questions, but never overrides the rule engine's decision.\n - PDF/Excel report generation with AI-written executive summaries; JWT auth; PostgreSQL via Supabase.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ZaforAbdullah/AI-Native-Supervision-Brain"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://supervision-brain.vercel.app"
+                }
+            ],
+            "tags": [
+                "Next.js",
+                "FastAPI",
+                "SQLAlchemy",
+                "PostgreSQL",
+                "Multi-Agent AI"
+            ]
+        },
+        {
+            "image": "images/projects/panicplan-poster.png",
+            "title": "PanicPlan",
+            "bodyText": "- An **AI-powered exam study scheduler** with streaming schedule generation, RAG-backed tutor chat, and adaptive rescheduling.\n - Built with **FastAPI**, **Next.js**, **LangChain LCEL**, and **Supabase pgvector**; provider-agnostic across Gemini and LM Studio.\n - PDF-to-topic extraction with **pdfplumber**; per-topic lesson and flashcard generation with race-safe caching.\n - Streaming responses with truncated-JSON recovery; exponential backoff on rate limits; per-plan RAG scoping via pgvector.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ZaforAbdullah/AI-Native-Panic-Plan"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://panic-plan.vercel.app/"
+                }
+            ],
+            "tags": [
+                "FastAPI",
+                "Next.js",
+                "LangChain",
+                "pgvector",
+                "RAG",
+                "TypeScript"
+            ]
+        },
+        {
+            "image": "images/projects/kanban-poster.png",
+            "title": "Kanban Board",
+            "bodyText": "- A **drag-and-drop** Kanban board for task management built with **React** and **TypeScript**.\n - Features board columns, card creation, editing, and deletion.\n - State management with **Zustand**; smooth animations with Framer Motion.\n - Fully responsive and accessible.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ZaforAbdullah/Kanban-Board"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://nextjs-kanban-board-project.vercel.app/"
+                }
+            ],
+            "tags": [
+                "React",
+                "TypeScript",
+                "Zustand",
+                "Framer Motion"
+            ]
+        }
+    ]
+}

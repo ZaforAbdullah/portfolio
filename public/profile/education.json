@@ -1,0 +1,13 @@
+{
+    "education": [
+        {
+            "title": "UniMAS",
+            "cardTitle": "B.Sc. Computer Science (Software Engineering)",
+            "cardSubtitle": "Universiti Malaysia Sarawak (UniMAS), Malaysia",
+            "cardDetailedText": "Graduated 2020",
+            "icon": {
+                "src": "images/education/UNIMAS-logo.png"
+            }
+        }
+    ]
+}

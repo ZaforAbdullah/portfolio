@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://linkedin.com/in/zaforabdullah"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/zaforabdullah"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:abuzaforabd@gmail.com"
+        }
+    ]
+}

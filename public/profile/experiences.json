@@ -1,0 +1,30 @@
+{
+    "experiences": [
+        {
+            "title": "Senior Software Engineer",
+            "subtitle": "Ideagen ICT Sdn Bhd",
+            "workType": "Full-time",
+            "workDescription": [
+                "Reduced application load time by **~50%** through systematic performance engineering — lazy loading, code splitting, caching strategies, and rendering optimisation.",
+                "Contributed to scaling the platform from early-stage to serving **enterprise clients** across aerospace, healthcare, life sciences, and financial services globally.",
+                "Built a production **AI agent** using the Claude API, MCP Server, and Vercel AI SDK that automated **~70%** of repetitive diagnosis workflows, reducing average triage time from ~25 minutes to under 5 minutes.",
+                "Designed and maintained scalable full-stack applications in **TypeScript, React, Next.js, and Node.js/NestJS** with GraphQL and REST APIs.",
+                "Established reusable component libraries and design systems; improved CI/CD pipelines with GitHub Actions; deployed on **AWS** with Docker and Kubernetes.",
+                "Mentored junior engineers, conducted code reviews, and contributed to architectural decisions across the team."
+            ],
+            "dateText": "Sep 2021 – Feb 2026"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "DeGrocery",
+            "workType": "Full-time",
+            "workDescription": [
+                "Built dynamic **React.js** components and integrated REST APIs powering key user journeys for the first online grocery e-commerce platform in Borneo, Malaysia.",
+                "Delivered responsive, cross-device UI improvements that reduced user-reported interface issues by **~40%**.",
+                "Established reusable UI component architecture and frontend design patterns, improving code maintainability and consistency.",
+                "Increased test coverage using **Jest** and **React Testing Library**; participated in Agile/Scrum sprints."
+            ],
+            "dateText": "Jan 2020 – Sep 2021"
+        }
+    ]
+}
